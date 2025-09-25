@@ -14,7 +14,7 @@ This project demonstrates how to design and deploy a **real-world cloud-native a
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](cloud_dictionary_architecture.png)
+![Architecture Diagram](clouddictionary.png)
 
 
 **Flow:**
